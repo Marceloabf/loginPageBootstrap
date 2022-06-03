@@ -1,0 +1,11 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.form-container {
+  background: #8ef2a9;
+  padding: 2rem;
+  border-radius: 15px;
+}
+label {
+  font-weight: 700;
+}
